@@ -1,0 +1,1 @@
+<link href="<?=URLPATH?>templates/assets/my/styles/all.min.css?v=<?php echo time() ?>" rel="stylesheet" />
